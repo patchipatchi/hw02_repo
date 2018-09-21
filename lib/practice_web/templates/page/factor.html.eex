@@ -1,0 +1,9 @@
+<div class="row">
+  <div class="column">
+    <p><%= link "← go back", to: "/" %></p>
+    <h2>Prime Factors</h2>
+
+    <p>factors of <%= @x %></p>
+    <p><%= @y %></p>
+  </div>
+</div>
